@@ -99,3 +99,54 @@ hyperparameters and retrain our model.
 3. https://www.nationaldeafcenter.org/sites/default/files/Deaf%20People%20and%20Employment%20in%20the%20United%20States_%202019%20(7.26.19)(ENGLISH)(WEB).pdf
 4. https://www.kaggle.com/birdy654/sign-language-recognition-leap-motion
 5. https://www.gallaudet.edu/office-of-international-affairs/demographics/deaf-employment-reports/
+
+## Demo
+
+Insert gif or link to demo
+
+https://github.com/saumyasingh98/LeapmotionMLProject/blob/main/Final_ML_presentationv1.mp4
+## 🚀 About Me
+I'm AI engineer with strong theoretical understanding and practical experience in designing, training, evaluating, and optimizing AI and machine learning solutions.
+
+## Github Profile Sections
+👩‍💻 I'm currently pursuing my Masters in Artificial Intelligence at Northwestern University.
+
+💬 Ask me about - Machine Learning and Artificial Intelligence
+
+📫 How to reach me - saumyasingh2023@u.northwestern.edu
+
+
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saumyasingh98.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/saumyasingh98)
+
+[![medium](https://img.shields.io/badge/-Medium-black)](https://saumyasingh98.medium.com/)    
+
+[![medium](https://img.shields.io/badge/-Medium-black)](https://saumyasingh98.medium.com/)
+
+[![medium](https://img.shields.io/badge/-Medium-black)](https://saumyasingh98.medium.com/)
+## 🛠 Skills
+Languages: Java, Python, C++,C, R, HTML, CSS, JavaScript, SQL
+
+Machine Learning: Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch 
+
+Data Science: NLTK, Spacy 
+
+Tools and Technologies: Anaconda, Eclipse, Git, PostgreSQL
+
+
+## Resume 
+
+[RESUME](https://saumyasingh98.github.io/assets/Saumya_RESUMEfinal.docx.pdf)
+
+
+## Blogs
+
+[All about R - Medium](https://saumyasingh98.medium.com/all-about-r-2bb8ff874074)
+
+[The Forgotten Genius Nikola Tesla](https://saumyasingh98.medium.com/the-forgotten-genius-nikola-tesla-d3da2f3741fd)
