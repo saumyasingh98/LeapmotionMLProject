@@ -95,6 +95,9 @@ accordingly. Creating these metrics, we will build a model focusing on providing
 classes from 0-16 and generate these metrics. Based on these metrics we will tune the
 hyperparameters and retrain our model.
 
+[MSAI349 - ASL Translation.pptx](https://github.com/saumyasingh98/LeapmotionMLProject/files/7853528/MSAI349.-.ASL.Translation.pptx)
+
+
 # References:
 1. https://en.wikipedia.org/wiki/Languages_of_the_United_States
 2. https://www.gallaudet.edu/documents/Research-Support-and-International-Affairs/ASLUsers.pdf
